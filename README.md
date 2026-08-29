@@ -1,4 +1,4 @@
-# Calculadora de Áreas de Figuras Geométricas
+# Cálculos de Áreas de Figuras Geométricas
 
 ## > Descripción
 Este proyecto es una aplicación de consola en Java que calcula el área de distintas figuras geométricas (Círculo, Rectángulo y Triángulo) utilizando conceptos fundamentales de la Programación Orientada a Objetos como herencia, abstracción, encapsulamiento y polimorfismo.
